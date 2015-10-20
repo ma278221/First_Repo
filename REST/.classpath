@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry exported="true" kind="lib" path="D:/Software/mysql-connector-java-5.0.8/mysql-connector-java-5.0.8/mysql-connector-java-5.0.8-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ma278221/git/REST/WebContent/WEB-INF/lib/jackson-core-asl-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ma278221/git/REST/WebContent/WEB-INF/lib/jackson-jaxrs-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ma278221/git/REST/WebContent/WEB-INF/lib/jackson-mapper-asl-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ma278221/git/REST/WebContent/WEB-INF/lib/jackson-xc-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ma278221/git/REST/WebContent/WEB-INF/lib/jersey-client-1.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ma278221/git/REST/WebContent/WEB-INF/lib/jersey-core-1.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ma278221/git/REST/WebContent/WEB-INF/lib/jersey-json-1.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ma278221/git/REST/WebContent/WEB-INF/lib/jersey-server-1.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ma278221/git/REST/WebContent/WEB-INF/lib/jersey-servlet-1.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ma278221/git/REST/WebContent/WEB-INF/lib/jettison-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ma278221/git/REST/WebContent/WEB-INF/lib/jsr311-api-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ma278221/git/REST/WebContent/WEB-INF/lib/mysql-connector-java-5.0.8-bin.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
