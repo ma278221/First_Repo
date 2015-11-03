@@ -6,15 +6,13 @@ public class Factorial {
 
 	public static int fact(int i)
 	{
-		int k = 1;
-		int n = 0;
-		for(;i>1;i--)
+		int n = 1;
+		int fact = 1;
+		for(;n<=i;n++)
 		{
-			System.out.println(k++);
-			n = i * fact(i-1);
-			System.out.println("value of n is " + n);
+			fact = n * fact;
 		}
-		return n;
+		return fact;
 	}
 	
 	public static void main(String[] args) {
